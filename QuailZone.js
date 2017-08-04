@@ -6,10 +6,13 @@ export default class QuailZone extends React.Component  {
   constructor(props) {
     super(props);
   }
+
+  static navigationOptions = { title: 'Dark Web QuailZone. Caution.', };
+
   render() {
     return (
         <View style={styles.container}>
-          <Text style={styles.text}>Quail Zone.</Text>
+          <Text style={styles.text}>Welcome to The Quail Zone.</Text>
         </View>
     );
   }
