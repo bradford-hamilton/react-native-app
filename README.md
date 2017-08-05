@@ -1,1 +1,2 @@
-### React Native Trial App 
+## The Quail Zone
+### React Native Test App
