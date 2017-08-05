@@ -37,11 +37,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
+    marginTop: 15,
     fontSize: 18,
   },
   image: {
-    width: 200,
-    height: 200,
+    width: 225,
+    height: 225,
     marginTop: 20,
     marginBottom: 20,
   },
