@@ -1,5 +1,10 @@
 {
   "expo": {
     "sdkVersion": "19.0.0"
-  }
+  },
+  "android": {
+    "package": "the.quail.zone"
+  },
+  "name": "reactnativetomfoolery",
+  "displayName": "theQuailZone"
 }
